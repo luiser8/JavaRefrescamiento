@@ -12,6 +12,6 @@
 			En este caso, si más de un objeto necesita utilizar una instancia de la clase Singleton, 
 			esos objetos comparten la misma instancia de la clase Singleton. 
 		* Dependency Injection
-			* Es un metodo para sobrescribir un método de una clase al hacer herencia.
+			* 
 		* Decorator
-			*  Puede significar ocultar detalles de nivel interior o exponer solo los detalles esenciales y relevantes.
+			*  
