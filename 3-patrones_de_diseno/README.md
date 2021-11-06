@@ -12,6 +12,11 @@
 			En este caso, si más de un objeto necesita utilizar una instancia de la clase Singleton, 
 			esos objetos comparten la misma instancia de la clase Singleton. 
 		* Dependency Injection
-			* 
+			* Siempre ha sido uno de los conceptos que cuesta entender en el mundo del desarrollo de 
+			software sobre todo a la gente que esta empezando. 
+			¿Para qué sirve este patrón de diseño y cual es su utilizad? Normalmente cuando nosotros 
+			programamos en el día a día con la programación orientada a objeto nos encontramos construyendo 
+			objetos y relacionando objetos utilizando dependencias.
 		* Decorator
-			*  
+			* Permite añadir responsabilidades a objetos concretos de forma dinámica. 
+			Los decoradores ofrecen una alternativa más flexible que la herencia para extender las funcionalidades.
